@@ -1,4 +1,4 @@
-# 👋 Hey, I'm chatmeow69!
+# 👋 Hey, I'm Gabriel!
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Computer+Science+Student+%F0%9F%92%BB;Development+%7C+Automation;Discord+Bots+%7C+Homelab+%7C+Docker;Learning+by+building+%F0%9F%9A%80" alt="Animated introduction" />
@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 About me
 
-I'm **chatmeow69**, a high school student studying computer science and a developer learning through hands-on projects. I enjoy experimenting with new technologies, building useful tools, and automating tasks.
+I'm **Gabriel**, a high school student studying computer science and a developer learning through hands-on projects. I enjoy experimenting with new technologies, building useful tools, and automating tasks.
 
 - 💻 Python and JavaScript development.
 - 🤖 Discord bot development.
