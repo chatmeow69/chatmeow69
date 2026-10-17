@@ -56,15 +56,6 @@ Je suis **Gabriel**, lycéen en informatique et développeur en apprentissage. J
 
 *Les statistiques sont générées par des services tiers. Leur disponibilité et les données affichées dépendent de ces services et des dépôts accessibles.*
 
-## 📌 Mes projets
-
-Je développe et expérimente autour de plusieurs domaines :
-
-- **Discord Bots** — bots et fonctionnalités personnalisées.
-- **Homelab & Self-hosting** — services auto-hébergés et infrastructure personnelle.
-- **Automation** — scripts et workflows automatisés.
-- **Networking & Systems** — expérimentations réseau et administration système.
-- **IoT** — projets autour des microcontrôleurs ESP32 et ESP8266.
 
 <p align="center">
   <a href="https://github.com/chatmeow69?tab=repositories">
