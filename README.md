@@ -54,8 +54,6 @@ Je suis **Gabriel**, lycéen en informatique et développeur en apprentissage. J
   <img src="https://streak-stats.demolab.com?user=chatmeow69&theme=tokyonight&hide_border=true" alt="Série de contributions GitHub" />
 </p>
 
-*Les statistiques sont générées par des services tiers. Leur disponibilité et les données affichées dépendent de ces services et des dépôts accessibles.*
-
 
 <p align="center">
   <a href="https://github.com/chatmeow69?tab=repositories">
