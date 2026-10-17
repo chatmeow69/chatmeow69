@@ -60,17 +60,6 @@ I'm **Gabriel**, a high school student studying computer science and a developer
   <img src="https://streak-stats.demolab.com?user=chatmeow69&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
-*Statistics are provided by third-party services. Availability and displayed data depend on those services and the repositories they can access.*
-
-## 📌 My projects
-
-I build and experiment with projects in several areas:
-
-- **Discord Bots** — bots and custom features.
-- **Homelab & Self-hosting** — self-hosted services and personal infrastructure.
-- **Automation** — scripts and automated workflows.
-- **Networking & Systems** — networking experiments and systems administration.
-- **IoT** — projects involving ESP32 and ESP8266 microcontrollers.
 
 <p align="center">
   <a href="https://github.com/chatmeow69?tab=repositories">
